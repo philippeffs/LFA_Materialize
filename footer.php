@@ -20,9 +20,10 @@
 
 
 <script>
-      $(document).ready(function(){
-      $('.slider').slider();
+            $(document).ready(function(){
+      $('.slider').slider({height:420,indicators:true,transition:800,interval:8000});
     });
+
 
     $( document ).ready(function() {
       $(".button-collapse").sideNav();
@@ -34,6 +35,7 @@
       $(document).ready(function() {
     $('input#input_text, textarea#mensagem').characterCounter();
   });
+
         
 </script>
   

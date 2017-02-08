@@ -8,38 +8,39 @@
 
 <!--Conteúdo da página-->
 
-      <div class="slider">
+     <div class="slider">
           <ul class="slides">
             <li>
-              <img class="responsive-img" src="images/Caroussel/banner1.jpg"> <!-- random image -->
+              <img src="images/Caroussel/banner1.jpg"> <!-- random image -->
               <div class="caption center-align">
-                <h3>Ouro Preto</h3>
-                <h5 class="light grey-text text-lighten-3">Cidade histórica</h5>
+                <h3>This is our big Tagline!</h3>
+                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
             <li>
-              <img class="responsive-img" src="images/Caroussel/banner2.jpg"> <!-- random image -->
+              <img src="images/Caroussel/banner2.jpg"> <!-- random image -->
               <div class="caption left-align">
                 <h3>Left Aligned Caption</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
             <li>
-              <img class="responsive-img" src="images/Caroussel/banner3.jpg"> <!-- random image -->
+              <img src="images/Caroussel/banner3.jpg"> <!-- random image -->
               <div class="caption right-align">
                 <h3>Right Aligned Caption</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
             <li>
-              <img class="responsive-img" src="images/Caroussel/banner4.jpg"> <!-- random image -->
+              <img src="images/Caroussel/banner4.jpg"> <!-- random image -->
               <div class="caption center-align">
-                <h3>Escola de Minas - UFOP MG</h3>
+                <h3>This is our big Tagline!</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
           </ul>
       </div>
+
 
 
 
@@ -148,23 +149,6 @@
 
 <!--rodapé-->
 <?php require ('footer.php'); ?>
-
-
-  <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.2.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
-
-
-<script>
-      $(document).ready(function(){
-      $('.slider').slider({height:420,transition:800,interval:8000});
-    });
-
-    $( document ).ready(function() {
-      $(".button-collapse").sideNav();
-    });
-        
-</script>
 
 
   </body>
