@@ -11,28 +11,28 @@
       <div class="slider">
           <ul class="slides">
             <li>
-              <img src="images/UFOPCAMPUS.jpg"> <!-- random image -->
+              <img class="responsive-img" src="images/UFOPCAMPUS.jpg"> <!-- random image -->
               <div class="caption center-align">
                 <h3>This is our big Tagline!</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
             <li>
-              <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+              <img class="responsive-img" src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
               <div class="caption left-align">
                 <h3>Left Aligned Caption</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
             <li>
-              <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+              <img class="responsive-img" src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
               <div class="caption right-align">
                 <h3>Right Aligned Caption</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
               </div>
             </li>
             <li>
-              <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+              <img class="responsive-img" src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
               <div class="caption center-align">
                 <h3>This is our big Tagline!</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
@@ -65,11 +65,17 @@
       <div class="row">
         <div class="col s12 m9">
             <h5>Laboratório de Ferrovias e Asfalto</h5>
-            <p class="light left">Capacitado para a caracterização tecnológica dos materiais usados na infra-estrutura e superestrutura de rodovias e ferrovias, para ensaios especiais em 
-            solos lateriticos por meio da metodologia MCT e para estudos especiais em resíduos de minério de ferro a serem utilizados em 
-            pavimentos rodoviários e ferroviários.Permite estudos em excelência de materiais alternativos para 
-            composição de lastro ferroviário, ensaios para realização de aulas práticas das disciplinas de Vias Terrestres, 
-            Ferrovias, Rodovias e Aeroportos.</p>
+            <p class="light left">
+                O Laboratório de Ferrovias e Asfalto do Departamento de Engenharia Civil da Escola de Minas da Universidade Federal de Ouro Preto (UFOP) 
+              iniciou suas atividades em novembro de 2006, visando a capacitação acadêmica de alunos do curso de Engenharia Civil nas disciplinas 
+              de Infraestrutura de Transportes, Superestrutura de Transportes e de Ferrovias no que diz respeito a conhecimentos práticos sobre materiais de pavimentação e ferrovias.
+               
+            </p>
+
+            <p class="light left">Com passar dos anos, o laboratório especializou-se na adequação e desenvolvimento tecnológico de materiais oriundos de rejeitos siderúrgicos 
+               e de mineração para utilização em pavimentos, tornando-se uma referência no assunto em parceria com várias empresas nacionais e internacionais.</p>
+
+
           
         </div>
 
@@ -151,7 +157,7 @@
 
 <script>
       $(document).ready(function(){
-      $('.slider').slider();
+      $('.slider').slider({height:420,indicators:false});
     });
 
     $( document ).ready(function() {

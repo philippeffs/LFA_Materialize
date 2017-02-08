@@ -76,6 +76,24 @@ nav ul a:hover {
   background-color: #00838f;
 }
 
+.slider .slides li img {
+  height: 100%;
+  width: 100%;
+
+  background-size: cover;
+  background-position: center;
+}
+
+
+/*personalizaçao do botao Enviar*/
+
+.btn {
+
+  position:relative;
+  left:50%;
+  margin-top:20px;
+  margin-left:-50px;
+}
 
 
 /*flip*/
@@ -258,9 +276,6 @@ nav ul a:hover {
     top: 0;
   }
 
-  .slider{
-    max-height: 50%;
-  }
 
 }
 

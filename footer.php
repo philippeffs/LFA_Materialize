@@ -27,6 +27,13 @@
     $( document ).ready(function() {
       $(".button-collapse").sideNav();
     });
+
+    
+    $('#mensagem').trigger('autoresize');
+
+      $(document).ready(function() {
+    $('input#input_text, textarea#mensagem').characterCounter();
+  });
         
 </script>
   
