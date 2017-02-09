@@ -79,9 +79,9 @@
                           <textarea id="mensagem" class="materialize-textarea" data-length="300"></textarea>
                           <label for="mensagem">Mensagem</label>
                       </div>
-                      <button class="btn waves-effect waves-light blue-grey darken-1 center-align" type="submit" name="action">Enviar
+                    <button class="btn waves-effect waves-light blue-grey darken-1 valign-wrapper" type="submit" name="action">Enviar
                           <i class="material-icons right">send</i>
-                      </button>
+                    </button>
                 </form>
           </div>
 

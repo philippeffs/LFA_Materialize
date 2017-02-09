@@ -27,6 +27,8 @@ p {
 }
 
 
+
+
 /*personalizaçao navbar desktop*/
 
 
@@ -89,10 +91,10 @@ nav ul a:hover {
 .btn {
 
   position:relative;
-  left:40%;
-  right: 40%;
+  left:35%;
+  right: 35%;
   margin-top:20px;
-  margin-left:-30px;
+  margin-left:-0px;
 }
 
 
