@@ -89,9 +89,10 @@ nav ul a:hover {
 .btn {
 
   position:relative;
-  left:50%;
+  left:40%;
+  right: 40%;
   margin-top:20px;
-  margin-left:-50px;
+  margin-left:-30px;
 }
 
 
