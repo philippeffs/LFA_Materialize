@@ -47,7 +47,7 @@
     <div class="row">
         <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-              <div class="card small">
+              <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/ufop.jpg">
                 </div>
@@ -63,7 +63,7 @@
 
           <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-                <div class="card small">
+                <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/em.jpg">
                 </div>
@@ -80,7 +80,7 @@
 
           <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-                <div class="card small">
+                <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/cnpq.jpg">
                 </div>
@@ -97,7 +97,7 @@
 
           <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-                <div class="card small">
+                <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/em.jpg">
                 </div>
@@ -114,7 +114,7 @@
 
         <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-              <div class="card small">
+              <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/cnpq.jpg">
                 </div>
@@ -131,7 +131,7 @@
 
           <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-                <div class="card small">
+                <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/cnpq.jpg">
                 </div>
@@ -148,7 +148,7 @@
 
           <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-                <div class="card small">
+                <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/cnpq.jpg">
                 </div>
@@ -165,7 +165,7 @@
 
           <div class="col s6 m4 l3">
               <h4 class="light">Small Card</h4>
-                <div class="card small">
+                <div class="card small hoverable">
                 <div class="card-image waves-effect waves-block waves-light">
                   <img class="activator" src="images/cnpq.jpg">
                 </div>
