@@ -56,7 +56,8 @@ nav ul a:hover {
 
 /*personalizaçao da navbar versao mobile*/
 #sidenav-overlay {
-  z-index: -1;
+  z-index: -2;
+  background-color: inherit;
 }
 
 .side-nav {
@@ -72,10 +73,19 @@ nav ul a:hover {
 }
 
 
+/*Personalizaçao hover*/
+
+
+#thumb .hoverable:hover {
+
+  box-shadow: 0 8px 17px 0 #546e7a, 0 6px 20px 0 #546e7a;
+}
+
 /*slider background quando esta ativo*/
 
 .slider .indicators .indicator-item.active {
-  background-color: #00838f;
+  background-color: #546e7a;
+  opacity: 0.9; 
 }
 
 .slider .slides li img {
