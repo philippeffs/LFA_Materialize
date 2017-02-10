@@ -6,7 +6,7 @@
  * Made By MaterializeCSS.com
  */
 
-
+*{height: auto}
 
 p {
   line-height: 2rem;
@@ -26,12 +26,97 @@ p {
     width: 100%;
 }
 
+/*teste1 equipe*/
+
+.teste {
+  position: relative;
+  width: 50%;
+
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(33, 33, 33, 0.9);
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;      
+}
+
+.teste:hover .overlay {
+  height: 100%;
+
+}
+.text1 {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-family: Courier;
+
+
+}
+
+/*teste2 equipe*/
+
+.container2 {
+    position: relative;
+    width: 50%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container2:hover .image {
+  opacity: 0.3;
+  c
+}
+
+.container2:hover .middle {
+  opacity: 1;
+}
+
+.text2 {
+  background-color: transparent;
+  color: black;
+  font-size: 20px;
+  padding: 16px 32px;
+  font-family: Courier;
+}
 
 
 
 /*personalizaçao navbar desktop*/
-
-
 nav{
  
   opacity: 0.9; /*Transparencia navbar*/
@@ -83,17 +168,12 @@ nav ul a:hover {
 
 /*slider background quando esta ativo*/
 
+
 .slider .indicators .indicator-item.active {
   background-color: #546e7a;
   opacity: 0.9; 
 }
 
-.slider .slides li img {
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-}
 
 
 /*personalizaçao do botao Enviar*/
@@ -105,7 +185,11 @@ nav ul a:hover {
   right: 35%;
   margin-top:20px;
   margin-left:-0px;
+  display: inline-block;
 }
+
+
+
 
 
 /*Iframa do mapa responsiveo*/

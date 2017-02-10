@@ -198,113 +198,30 @@
           </div>
         </div>
     </div>
+
+<div class="teste">
+  <div class="col s6 m4 l3">
+  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image responsive-img">
+  <div class="overlay">
+    <div class="text1 flow-text center">Bárbara Cruz<br>Estagiária</div>
+  </div>
+  </div>
+
+</div>
+
+<div class="container2">
+  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image" style="width:100%">
+  <div class="middle">
+    <div class="text2 flow-text center">Bárbara Cruz<br>Estagiária</div>
+  </div>
+</div>
+
 </div>
 
 
 
 
-
-
-
-
-
-<!--<div class="row">
-
-        <div class="card col s6 m3 l3">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator responsive-img" src="images/em.jpg">
-              </div>
-              <div class="card-content">
-                <span class="card-title activator grey-text text-darken-4 center-align">Fundador</span>
-                
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text text-darken-4">Dr. Gilberto Fernandes<i class="material-icons right">close</i></span>
-                <p>Estagiária</p>
-          </div>
-        </div>
-
-        <div class="card col s6 m3 l3 offset-1">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator responsive-img" src="images/ufop.jpg">
-              </div>
-              <div class="card-content">
-                <span class="card-title activator grey-text text-darken-4 center-align">Estagiária</span>
-                
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text text-darken-4">Bárbara Cruz<i class="material-icons right">close</i></span>
-                <p>Estagiária</p>
-          </div>
-        </div>
-        <div class="card col s6 m3 l3">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="images/cnpq.jpg">
-              </div>
-              <div class="card-content">
-                <span class="card-title activator grey-text text-darken-4 center-align">Coordenador</span>
-                
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text text-darken-4">Antonio Borges<i class="material-icons right">close</i></span>
-                <p>Estagiária</p>
-          </div>
-        </div>
-        <div class="card col s6 m3 l3">
-              <div class="card-image waves-effect waves-block waves-light">
-                <img class="activator" src="images/cnpq.jpg">
-              </div>
-              <div class="card-content">
-                <span class="card-title activator grey-text text-darken-4 center-align">Coordenador</span>
-                
-              </div>
-              <div class="card-reveal">
-                <span class="card-title grey-text text-darken-4">Antonio Borges<i class="material-icons right">close</i></span>
-                <p>Estagiária</p>
-              </div>
-        </div>
-
-       
-    </div>-->
-  
-
- <!-- <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
-  </div>
-
-  <div class="container">
-    <div class="section">
-
-      <div class="row">
-        <div class="col s12 center">
-          <h3><i class="mdi-content-send brown-text"></i></h3>
-          <h4>Contact Us</h4>
-          <p class="left-align light">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque id nunc nec volutpat. Etiam pellentesque tristique arcu, non consequat magna fermentum ac. Cras ut ultricies eros. Maecenas eros justo, ullamcorper a sapien id, viverra ultrices eros. Morbi sem neque, posuere et pretium eget, bibendum sollicitudin lacus. Aliquam eleifend sollicitudin diam, eu mattis nisl maximus sed. Nulla imperdiet semper molestie. Morbi massa odio, condimentum sed ipsum ac, gravida ultrices erat. Nullam eget dignissim mauris, non tristique erat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
-        </div>
-      </div>
-
-    </div>
-  </div>
-
-
- <div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <div class="row center">
-          <h5 class="header col s12 light">A modern responsive front-end framework based on Material Design</h5>
-        </div>
-      </div>
-    </div>
-    <div class="parallax"><img src="background3.jpg" alt="Unsplashed background img 3"></div>
-  </div>-->
-
+  </div>  
 
 <!--rodapé-->
 <?php require ('footer.php'); ?>

@@ -21,7 +21,7 @@
 
 <script>
             $(document).ready(function(){
-      $('.slider').slider({height:420,indicators:true,transition:800,interval:8000});
+      $('.slider').slider({transition:800,interval:8000});
     });
 
 
@@ -36,6 +36,10 @@
     $('input#input_text, textarea#mensagem').characterCounter();
   });
 
+  $(document).ready(function(){
+    $('.materialboxed').materialbox();
+  });
+      
         
 </script>
   
