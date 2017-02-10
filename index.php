@@ -101,22 +101,22 @@
   </div>
     <div class="row" id="thumb">
               <div class="col s4 m3 l3">
-                    <a href="http://www.em2.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey tooltipped" data-position="bottom" data-delay="50" data-tooltip="Escola de Minas">
+                    <a href="http://www.em2.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey">
                       <img class="responsive-img" src="images/em.jpg" alt="Escola de Minas">
                     </a>
                   </div>
                   <div class="col s4 m3 l3">
-                    <a href="http://www.cnpq.br" class="z-depth-2 waves-effect hoverable waves-blue-grey tooltipped" data-position="bottom" data-delay="50" data-tooltip="CNPq">
+                    <a href="http://www.cnpq.br" class="z-depth-2 waves-effect hoverable waves-blue-grey">
                       <img class="responsive-img"src="images/cnpq.jpg" alt="CNPq - Conselho Nacional de Desenvolvimento Científico e Tecnológico">
                     </a>
                   </div>
                   <div class="col s4 m3 l3">
-                    <a href="http://www.nugeo.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey tooltipped" data-position="bottom" data-delay="50" data-tooltip="NUGEO">
+                    <a href="http://www.nugeo.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey">
                       <img class="responsive-img"src="images/nugeo.png" alt="Nucleo de Geotecnia da Escola de Minas - NUGEO">
                     </a>
                   </div>
                   <div class="col s4 m3 l3">
-                    <a href="http://www.propec.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey tooltipped" data-position="bottom" data-delay="50" data-tooltip="PROPEC">
+                    <a href="http://www.propec.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey">
                       <img class="responsive-img"src="images/propec.jpg" alt="Programa de Pós-Graduação em Engenharia Civil - PROPEC">
                     </a>
                   </div>
