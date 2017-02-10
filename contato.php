@@ -47,10 +47,10 @@
               <div class="col s12 m6 l6" >
                     <div class="card-panel blue-grey darken-1 hoverable">
                         <span class="white-text">Para perguntas, sugestões ou propostas de atuação, entre em contato com o nosso grupo.<br><br>
-                        Laboratório de Ferrovias e Asfalto<br>
-                          Escola de Minas - Universidade Federal de Ouro Preto<br>
-                          Campus Universitário - Morro do Cruzeiro<br>
-                          CEP 35.400-000 - Ouro Preto-MG</span>
+                        Laboratório de Ferrovias e Asfalto – Departamento de Engenharia Civil/Escola de Minas da UFOP<br>
+                          Campus do Morro do Cruzeiro, SN , bairro Bauxita<br>
+                          Ouro Preto -  Minas Gerais CEP: 35400-000<br>
+                          Telefone: +55 (31) 3559-1112/ 97141-1690</span>
                       </div>
                     <div class="maps hide-on-small-only hoverable">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.1667031131442!2d-43.50894912591769!3d-20.400066731285023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa40aec8c10fe17%3A0x5423e109dd4569c7!2sCampus+Morro+do+Cruzeiro!5e0!3m2!1spt-BR!2sbr!4v1486570739255"
