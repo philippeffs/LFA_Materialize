@@ -34,25 +34,25 @@ p {
 
 }
 
-.image {
+.image1 {
   display: block;
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 
-.overlay {
+.overlay1 {
   position: absolute;
   bottom: 0;
   left: 0;
   right: 0;
   background-color: rgba(33, 33, 33, 0.9);
   overflow: hidden;
-  width: 100%;
+  width: 50%;
   height: 0;
   transition: .5s ease;      
 }
 
-.teste:hover .overlay {
+.teste:hover .overlay1 {
   height: 100%;
 
 }
@@ -78,7 +78,7 @@ p {
     width: 50%;
 }
 
-.image {
+.image2 {
   opacity: 1;
   display: block;
   width: 100%;
@@ -97,7 +97,7 @@ p {
   -ms-transform: translate(-50%, -50%)
 }
 
-.container2:hover .image {
+.container2:hover .image2 {
   opacity: 0.3;
   c
 }
@@ -114,6 +114,47 @@ p {
   font-family: Courier;
 }
 
+
+/*teste3 equipe*/
+
+.container3 {
+  position: relative;
+  width: 50%;
+}
+
+.image3 {
+  display: block;
+  width: 50%;
+  height: auto;
+}
+
+.overlay3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(33, 33, 33, 0.9);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container3:hover .overlay3 {
+  width: 50%;
+}
+
+.text3 {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
 
 
 /*personalizaçao navbar desktop*/

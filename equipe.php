@@ -201,18 +201,29 @@
 
 <div class="teste">
   <div class="col s6 m4 l3">
-  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image responsive-img">
-  <div class="overlay">
+  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image1 responsive-img">
+  <div class="overlay1">
     <div class="text1 flow-text center">Bárbara Cruz<br>Estagiária</div>
   </div>
   </div>
-
 </div>
 
 <div class="container2">
-  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image" style="width:100%">
+<div class="col s6 m4 l3">
+
+  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image2" >
   <div class="middle">
     <div class="text2 flow-text center">Bárbara Cruz<br>Estagiária</div>
+  </div>
+</div>
+</div>
+
+<div class="container3">
+  <div class="col s6 m4 l3">
+  <img src="images/EQUIPE/B_Cruz.jpg" alt="Avatar" class="image3 responsive-img">
+  <div class="overlay3">
+    <div class="text1 flow-text center">Bárbara Cruz<br>Estagiária</div>
+  </div>
   </div>
 </div>
 
