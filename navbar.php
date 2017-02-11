@@ -9,7 +9,7 @@
         <li><a href="laboratorio.html">Laboratório</a></li>
         <li><a href="equipe.html">Equipe</a></li>
         <li><a href="lnpesquisa.html">Linhas de Pesquisa</a></li>
-        <li><a href="#">Publicações</a></li>
+        <li><a href="public.html">Publicações</a></li>
         <li><a href="#">Parceiros</a></li>
         <li><a href="contato.html">Contato</a></li>
       </ul>
@@ -23,7 +23,7 @@
           <li><div class="divider"></div></li>
           <li class="bold"><a href="lnpesquisa.html" class="waves-effect waves-light waves-grey">Linhas de Pesquisa</a></li>
           <li><div class="divider"></div></li>
-          <li class="bold"><a href="#!" class="waves-effect waves-light waves-grey">Publicações</a></li>
+          <li class="bold"><a href="public.html" class="waves-effect waves-light waves-grey">Publicações</a></li>
           <li><div class="divider"></div></li>
           <li class="bold"><a href="#!" class="waves-effect waves-light waves-grey">Parceiros</a></li>          
           <li><div class="divider"></div></li>

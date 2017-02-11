@@ -54,7 +54,7 @@
 
             <h5>Publicações</h5>
             <p class="light left">
-              Publciações bla bla bla
+              Publicações bla bla bla
 
             </p>
           <!--</div>-->
@@ -65,50 +65,95 @@
         <table class="bordered highlight responsive-table centered">
         <thead>
           <tr>
-              <th data-field="id">Name</th>
-              <th data-field="name">Item Name</th>
-              <th data-field="price">Item Price</th>
-              <th data-field="Download">Download</th>
+              <th data-field="ano">Ano de Publicação</th>
+              <th data-field="categoria">Categoria</th>
+              <th data-field="título">Título</th>
+              <th data-field="autor">Autor</th>
+              <th data-field="download">Download</th>
           </tr>
         </thead>
 
         <tbody>
           <tr>
-            <td>Alvin</td>
-            <td>Eclair</td>
-            <td>$0.87</td>
-            <td><i class="material-icons small">attachment</i></td>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc1.pdf"><i class="material-icons small">get_app</i></a></td>
           </tr>
           <tr>
             <td>Alan</td>
             <td>Jellybean</td>
             <td>$3.76</td>
-            <td><i class="material-icons small">attachment</i></td>
-          </tr>
-          <tr>
-            <td>Jonathan</td>
-            <td>Lollipop</td>
-            <td>$7.00</td>
-            <td><i class="material-icons small">attachment</i></td>
-          </tr>
-          <tr>
-            <td>Alvin</td>
-            <td>Eclair</td>
-            <td>$0.87</td>
-            <td><i class="material-icons small">attachment</i></td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc2.pdf"><i class="material-icons small">get_app</i></a></td>
           </tr>
           <tr>
             <td>Alan</td>
             <td>Jellybean</td>
             <td>$3.76</td>
-            <td><i class="material-icons small">attachment</i></td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc3.pdf"><i class="material-icons small">get_app</i></a></td>
           </tr>
           <tr>
-            <td>Jonathan</td>
-            <td>Lollipop</td>
-            <td>$7.00</td>
-            <td><i class="material-icons small">attachment</i></td>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc4.pdf"><i class="material-icons small">get_app</i></a></td>
           </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc5.pdf"><i class="material-icons small">get_app</i></a></td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc6.pdf"><i class="material-icons small">get_app</i></a></td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc7.pdf"><i class="material-icons small">get_app</i></a></td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc8.pdf"><i class="material-icons small">get_app</i></a></td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc9.pdf"><i class="material-icons small">get_app</i></a></td>
+          </tr>
+          <tr>
+            <td>Alan</td>
+            <td>Jellybean</td>
+            <td>$3.76</td>
+            <td>Alan</td>
+            <td>
+            <a href="public/doc10.pdf"><i class="material-icons small">get_app</i></a></td>
+          </tr>          
         </tbody>
       </table>
       </div>

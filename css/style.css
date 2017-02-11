@@ -213,7 +213,7 @@ nav ul a:hover {
 }
 
 
-/*Personalizaçao hover*/
+/*Personalizaçao hover imagens parceiros*/
 
 
 #thumb .hoverable:hover {
@@ -231,7 +231,7 @@ nav ul a:hover {
 
 
 
-/*personalizaçao do botao Enviar*/
+/*personalizaçao do botao Enviar do form*/
 
 .btn {
 
@@ -243,11 +243,7 @@ nav ul a:hover {
   display: inline-block;
 }
 
-
-
-
-
-/*Iframa do mapa responsiveo*/
+/*Iframe do mapa responsiveo*/
 
 .maps {
 position: relative;
@@ -267,6 +263,12 @@ height: 100%;
 }
 
 
+/*Footer*/
+
+.page-footer{
+  opacity: 0.9;
+  
+}
 
 /*flip*/
 
