@@ -52,9 +52,9 @@
         <div class="row">
             <div class="col s6">
                   
-                      <div class="teste hoverable">                
+                      <div class="teste">                
                         <img src="images/EQUIPE/BCruz.JPG" alt="Avatar" class="image1 responsive-img">
-                        <div class="overlay1 ">
+                        <div class="overlay1">
                           <div class=" flow-text center">Bárbara Cruz<br>Estagiária</div>
                         </div>
                       </div>
@@ -62,9 +62,9 @@
 
               <div class="col s6">
                   
-                <div class="container3 materialboxed hoverable">
-                  <img src="images/EQUIPE/Isadora Castro de Oliveira.JPG" alt="Avatar" class="image3 responsive-img">
-                  <div class="overlay3">
+                <div class="teste materialboxed">
+                  <img src="images/EQUIPE/Isadora Castro de Oliveira.JPG" alt="Avatar" class="image1 responsive-img">
+                  <div class="overlay1">
                     <div class="flow-text center">Isadora Castro de Oliveira<br>Estagiária</div>
                   </div>
                   </div>
