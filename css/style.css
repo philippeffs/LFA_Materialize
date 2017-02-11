@@ -34,9 +34,15 @@ table.highlight > tbody > tr:hover {
     opacity: 0.9;
 }
 
-a {
-  color: #546e7a;
+table.highlight > tbody > tr > td > a:hover{
+  color: white;
 }
+
+table.highlight > tbody > tr > td > a{
+  color: black;
+}
+
+
 
 /*teste1 equipe*/
 
