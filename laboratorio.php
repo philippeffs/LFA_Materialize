@@ -11,7 +11,7 @@
       <div class="slider">
           <ul class="slides">
             <li>
-              <img src="images/banner.jpg"> <!-- random image -->
+              <img src="images/Caroussel/banner1.jpg"> <!-- random image -->
               <div class="caption center-align">
                 <h3>This is our big Tagline!</h3>
                 <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
@@ -41,6 +41,9 @@
           </ul>
       </div>
 
+
+
+
 <div class="container">
     <div class="section">
 
@@ -55,6 +58,7 @@
         </div>
 
     </div>
+
   </div>
 </div>
 

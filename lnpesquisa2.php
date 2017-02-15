@@ -60,8 +60,14 @@
           <!--<div class="icon-block">-->
             <ul class="collapsible" data-collapsible="accordion">
                 <li>
-                  <div class="collapsible-header active"><i class="material-icons green-text text-darken-2">trending_flat</i><strong>Construção Civil - Sustentabilidade</strong></div>
-                  <div class="collapsible-body"><span>Aplicação de rejeitos oriundos da mineração em misturas asfálticas e base e sub base de pavimentos e pavimentação primária.</span></div>
+                  <div class="collapsible-header active"><i class="material-icons green-text text-darken-2">trending_flat</i><strong>Pesquisas em Pavimentação Asfáltica</strong></div>
+                  <div class="collapsible-body"><span>
+                  Aplicação de rejeitos oriundos da mineração em misturas asfálticas e base e sub base de pavimentos e pavimentação primária.<br>
+                  Utilização de equipamento de determinação de CBR in situ, para liberação de camadas de pavimentos.<br>
+                  Utilização do equipamento geogauge h4140 humboltd em controle tecnológico e liberação de camadas de pavimentos.<br>
+                  Estudo para avaliação dos impactos dos ruídos causados pelo transporte rodoviário em áreas urbanas.<br>
+                  Utilização de câmera infravermelha para a verificação de temperatura de misturas betuminosas usinadas à quente durante o processo de aplicação.
+                  </span></div>
                 </li>
                 <li>
                   <div class="collapsible-header"><i class="material-icons green-text text-darken-2">play_arrow</i><strong>Construção Civil - Tecnologia</strong></div>

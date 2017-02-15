@@ -61,28 +61,18 @@
           <!--<div class="icon-block">-->
             <ul class="collapsible" data-collapsible="accordion">
                 <li>
-                  <div class="collapsible-header active"><i class="material-icons green-text text-darken-2">done</i><strong>Construção Civil - Sustentabilidade</strong></div>
-                  <div class="collapsible-body"><span>Aplicação de rejeitos oriundos da mineração em misturas asfálticas e base e sub base de pavimentos e pavimentação primária.</span></div>
-                </li>
+                  <div class="collapsible-header active"><i class="material-icons green-text text-darken-2">done</i><strong>Pesquisas em Pavimentação Asfáltica</strong></div>
+                  <div class="collapsible-body"><span>
+                  -  Aplicação de rejeitos oriundos da mineração em misturas asfálticas e base e sub base de pavimentos e pavimentação primária.<br>
+                  -  Utilização de equipamento de determinação de CBR in situ, para liberação de camadas de pavimentos.<br>
+                  -  Utilização do equipamento geogauge h4140 humboltd em controle tecnológico e liberação de camadas de pavimentos.<br>
+                  -  Estudo para avaliação dos impactos dos ruídos causados pelo transporte rodoviário em áreas urbanas.<br>
+                  -  Utilização de câmera infravermelha para a verificação de temperatura de misturas betuminosas usinadas à quente durante o processo de aplicação.
+                  </span></div>
                 <li>
-                  <div class="collapsible-header"><i class="material-icons green-text text-darken-2">done</i><strong>Construção Civil - Tecnologia</strong></div>
-                  <div class="collapsible-body"><span>Utilização de equipamento de determinação de cbr in situ, para liberação de camadas de pavimentos.</span></div>
-                </li>
-                <li>
-                  <div class="collapsible-header"><i class="material-icons green-text text-darken-2">done</i><strong>Construção Civil - Reutilização</strong></div>
-                  <div class="collapsible-body"><span>Utilização do equipamento geogauge h4140 humboltd em controle tecnológico e liberação de camadas de pavimentos.</span></div>
-                </li>
-                <li>
-                  <div class="collapsible-header"><i class="material-icons green-text text-darken-2">done</i><strong>Construção Civil - Tecnologia</strong></div>
-                  <div class="collapsible-body"><span>Estudo para avaliação dos impactos dos ruídos causados pelo transporte rodoviário em áreas urbanas.</span></div>
-                </li>
-                <li>
-                  <div class="collapsible-header"><i class="material-icons green-text text-darken-2">done</i><strong>Construção Civil - Sustentabilidade</strong></div>
-                  <div class="collapsible-body"><span>Utilização de câmera infravermelha para a verificação de temperatura de misturas betuminosas usinadas à quente durante o processo de aplicação.</span></div>
-                </li>
-                <li>
-                  <div class="collapsible-header"><i class="material-icons green-text text-darken-2">done</i><strong>Construção Civil - Reaproveitamento</strong></div>
-                  <div class="collapsible-body ligth"><span>Caracterização geo–mecânica de escórias siderúrgicas para utilização como lastro e sub lastro de ferrovias e base e sub bases de pavimentos.</span></div>
+                  <div class="collapsible-header"><i class="material-icons green-text text-darken-2">done</i><strong>Pesquisas em Ferrovias</strong></div>
+                  <div class="collapsible-body ligth"><span>
+                  -  Caracterização geo–mecânica de escórias siderúrgicas para utilização como lastro e sub lastro de ferrovias e base e sub bases de pavimentos.</span></div>
                 </li>              
             </ul>
         </div>

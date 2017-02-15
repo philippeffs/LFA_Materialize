@@ -6,7 +6,7 @@
  * Made By MaterializeCSS.com
  */
 
-
+*{height: auto}
 
 p {
   line-height: 2rem;
@@ -27,9 +27,164 @@ p {
 }
 
 
+/*personalização tabela de publicaçoes*/
+table.highlight > tbody > tr:hover {
+    background-color: #546e7a;
+    color: white;
+    opacity: 0.9;
+}
+
+table.highlight > tbody > tr > td > a:hover{
+  color: white;
+}
+
+table.highlight > tbody > tr > td > a{
+  color: black;
+}
+
+
+
+/*teste1 equipe*/
+
+.teste {
+  position: relative;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.image1 {
+  display: block;
+  width: 100%;
+   border-radius: 10px;
+ }
+
+.overlay1 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(33, 33, 33, 0.9);
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .4s ease; 
+  border-radius: 10px;     
+}
+
+.teste:hover .overlay1 {
+  height: 100%;
+  border-radius: 10px;
+
+}
+.text1 {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  font-family: Courier;
+}
+
+
+.flow-text{
+  color: white;
+   }
+/*teste2 equipe*/
+
+.container2 {
+    position: relative;
+    width: 100%;
+}
+
+.image2 {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%)
+}
+
+.container2:hover .image2 {
+  opacity: 0.3;
+  c
+}
+
+.container2:hover .middle {
+  opacity: 1;
+}
+
+
+
+.text2 {
+  background-color: transparent;
+  color: black;
+  font-size: 20px;
+  padding: 16px 32px;
+  font-family: Courier;
+  display: inline-block;
+  position: relative;
+
+}
+
+
+/*teste3 equipe*/
+
+.container3 {
+  position: relative;
+  width: 100%;
+}
+
+.image3 {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(33, 33, 33, 0.9);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container3:hover .overlay3 {
+  width: 100%;
+}
+
+.text3 {
+  white-space: nowrap; 
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+
 /*personalizaçao navbar desktop*/
-
-
 nav{
  
   opacity: 0.9; /*Transparencia navbar*/
@@ -54,7 +209,8 @@ nav ul a:hover {
 
 /*personalizaçao da navbar versao mobile*/
 #sidenav-overlay {
-  z-index: -1;
+  z-index: -2;
+  background-color: inherit;
 }
 
 .side-nav {
@@ -70,32 +226,37 @@ nav ul a:hover {
 }
 
 
+/*Personalizaçao hover imagens parceiros*/
+
+
+#thumb .hoverable:hover {
+
+  box-shadow: 0 8px 17px 0 #546e7a, 0 6px 20px 0 #546e7a;
+}
+
 /*slider background quando esta ativo*/
 
+
 .slider .indicators .indicator-item.active {
-  background-color: #00838f;
-}
-
-.slider .slides li img {
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
+  background-color: #546e7a;
+  opacity: 0.9; 
 }
 
 
-/*personalizaçao do botao Enviar*/
+
+/*personalizaçao do botao Enviar do form*/
 
 .btn {
 
   position:relative;
-  left:50%;
+  left:35%;
+  right: 35%;
   margin-top:20px;
-  margin-left:-50px;
+  margin-left:-0px;
+  display: inline-block;
 }
 
-
-/*Iframa do mapa responsiveo*/
+/*Iframe do mapa responsiveo*/
 
 .maps {
 position: relative;
@@ -115,6 +276,12 @@ height: 100%;
 }
 
 
+/*Footer*/
+
+.page-footer{
+  opacity: 0.9;
+  
+}
 
 /*flip*/
 
