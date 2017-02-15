@@ -62,7 +62,7 @@
 
     </div>
       <div class="row">
-        <table class="bordered highlight responsive-table centered">
+        <table class="bordered highlight striped responsive-table centered">
         <thead>
           <tr>
               <th data-field="ano">Ano de Publicação</th>
