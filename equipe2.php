@@ -60,10 +60,10 @@
           <div class="col s12 m4 l4">            
              
                 <div class="teste materialboxed">
-                  <img src="images/EQUIPE/Isadora Castro de Oliveira.JPG" alt="Avatar" class="image1 responsive-img">
-                  <div class="overlay1">
-                    <div class="flow-text center">Isadora Castro de Oliveira<br>Estagiária</div>
-                  </div>
+<img src="images/EQUIPE/BCruz.JPG" class="object-fit" width="300" height="900" alt="Avatar">
+                       
+                          <div class=" flow-text center">Bárbara Cruz<br>Estagiária</div>
+                        
                 </div>
                 
               </div>
