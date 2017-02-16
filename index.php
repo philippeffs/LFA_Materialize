@@ -95,11 +95,12 @@
         </div>
 
     </div>
-        <div class="col s12 m12">
-            <h5>Parceiros:</h5>
-        </div>
+      <div class="col s12 m12">
+          <h5>Parceiros:</h5>
+      </div>
   </div>
-    <div class="row" id="thumb">
+  
+      <div class="row" id="thumb">
               <div class="col s4 m3 l3">
                     <a href="http://www.em2.ufop.br/" class="z-depth-2 waves-effect hoverable waves-blue-grey">
                       <img class="responsive-img" src="images/em.jpg" alt="Escola de Minas">
@@ -120,8 +121,6 @@
                       <img class="responsive-img"src="images/propec.jpg" alt="Programa de Pós-Graduação em Engenharia Civil - PROPEC">
                     </a>
                   </div>
-              </div>
-      <div class="row">
                   <div class="col s4 m3 l3">
                     <a href="http://www.fapemig.br/pt-br/" class="z-depth-2 waves-effect hoverable waves-blue-grey">
                       <img class="responsive-img"src="images/fapemig.jpg" alt="FAPEMIG - Fundação de Amparo à Pesquisa do Estado de Minas Gerais">
@@ -142,6 +141,7 @@
                             <img class="responsive-img" src="images/CAPES.jpg" alt="Comissão de Aperfeiçoamento de Pessoal do Nível Superior - Capes">
                           </a>
                         </div>  
+              </div>
               </div>
 </div>
 

@@ -40,60 +40,64 @@
       </li>
     </ul>
 </div>
+<br>
 
 
-<div class="container">
+
+<div class="container equipe">
+  <h5>Equipe:</h5>
     <div class="row">
-        <div class="col s12 m12 l12">
-            <h5>Equipe:</h5>
-            <p class="light left">Alunos de Graduação realizando pesquisa de iniciaçào científica:</p>
-        </div>
-    </div>
-        <div class="row">
-            <div class="col s6">
-                  
-                      <div class="img responsive-img">                
+      <div class="col s12 m4 l4">
+ 
+                 
+                                     
                         <img src="images/EQUIPE/BCruz.JPG" class="object-fit" width="300" height="900" alt="Avatar">
                        
                           <div class=" flow-text center">Bárbara Cruz<br>Estagiária</div>
                         
-                      </div>
+                      
             </div>
-
-              <div class="col s6">
-                  
+          <div class="col s12 m4 l4">            
+             
                 <div class="teste materialboxed">
                   <img src="images/EQUIPE/Isadora Castro de Oliveira.JPG" alt="Avatar" class="image1 responsive-img">
                   <div class="overlay1">
                     <div class="flow-text center">Isadora Castro de Oliveira<br>Estagiária</div>
                   </div>
-                  </div>
+                </div>
                 
               </div>
-        
-        </div>
-         <div class="row">
-                    <div class="col s6">
+
+                    <div class="col s12 m4 l4">
                           
                               <div class="teste">                
                                 <img src="images/EQUIPE/Gilberto - fundador.JPG" alt="Avatar" class="image1 responsive-img">
                                 <div class="overlay1 ">
                                   <div class="flow-text center">Professor Doutor Gilberto Fernandes<br>
-                                    <p class="light left flow-text">
-                                      
-
-                                    </p>
                                   </div>
                                 </div>
                               </div>
                     </div>
-        </div>
+                                        <div class="col s12 m4 l4">
+                          
+                              <div class="teste">                
+                                <img src="images/EQUIPE/Gilberto - fundador.JPG" alt="Avatar" class="image1 responsive-img">
+                                <div class="overlay1 ">
+                                  <div class="flow-text center">Professor Doutor Gilberto Fernandes<br>
+                                  </div>
+                                </div>
+                              </div>
+                    </div>
 
-
-
-
-
+        
 </div>  
+</div>      
+
+
+
+
+
+
 
 <!--rodapé-->
 <?php require ('footer.php'); ?>
