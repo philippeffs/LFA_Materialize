@@ -43,6 +43,10 @@ table.highlight > tbody > tr > td > a{
 }
 
 
+.object-fit {
+  object-fit: scale-down;
+  border-radius:90%;
+}
 
 /*teste1 equipe*/
 
@@ -241,6 +245,7 @@ nav ul a:hover {
   background-color: #546e7a;
   opacity: 0.9; 
 }
+
 
 
 
