@@ -42,11 +42,11 @@
 </div>
 <br>
 
-<div class="container" >
+<div class="container">
   <h5>Equipe:</h5>
     <div class="row" id="equipe">
       <div class="col s12 m4 l4">
-               <img src="images/EQUIPE/BCruz_final.JPG" class="object-fit circle responsive-img"  alt="Avatar">           
+               <img src="images/EQUIPE/BCruz_final.jpg" class="object-fit circle responsive-img"  alt="Avatar">           
                 <div class=" flow-text center">Bárbara Cruz<br>Estagiária</div>
         </div>
 
@@ -57,42 +57,42 @@
       </div>
 
                     <div class="col s12 m4 l4">                 
-                                <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                                <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                                   <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
 
                     <div class="col s12 m4 l4">                 
-                        <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                        <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                         <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
 
                                         <div class="col s12 m4 l4">                 
-                                <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                                <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                                   <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
                     
                     <div class="col s12 m4 l4">                 
-                        <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                        <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                         <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
 
                                         <div class="col s12 m4 l4">                 
-                                <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                                <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                                   <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
                     
                     <div class="col s12 m4 l4">                 
-                        <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                        <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                         <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
 
                                         <div class="col s12 m4 l4">                 
-                                <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                                <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                                   <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
                     
                     <div class="col s12 m4 l4">                 
-                        <img src="images/EQUIPE/Gilberto_final.JPG" alt="Avatar"    class="circle responsive-img">
+                        <img src="images/EQUIPE/Gilberto_final.jpg" alt="Avatar"    class="circle responsive-img">
                         <div class="flow-text center">Professor Doutor Gilberto Fernandes<br></div>
                     </div>
 
