@@ -48,11 +48,21 @@ table.highlight > tbody > tr > td > a{
 #equipe .col{
 
   margin-bottom: 25px;
+  overflow: hidden;
   
 }
 
+#equipe .circle {
+  
+  border: solid gray 5px;
+  overflow: hidden;
+}
 
 
+#equipe .circle:hover{
+  
+  border: solid red 3px;
+}
 
 /*personalizaçao navbar desktop*/
 nav{
