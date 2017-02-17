@@ -46,7 +46,7 @@
   <h5>Equipe:</h5>
     <div class="row" id="equipe">
      <div class="col s12 m4 l4">
-               <img src="images/EQUIPE/BCruz_final.jpg" class="circle responsive-img"  alt="Avatar">           
+               <img src="images/EQUIPE/BCruz_final.jpg" class=" materialboxed circle responsive-img"  alt="Avatar">           
                 <div class=" flow-text center">Bárbara Cruz<br>Estagiária</div>
         </div>
 
