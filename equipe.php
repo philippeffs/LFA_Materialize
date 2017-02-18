@@ -50,7 +50,8 @@
                 <div class=" flow-text center">Bárbara Cruz<br>Estagiária</div>
         </div>
 
-      <div class="col s12 m4 l4">            
+      <div class="col s12 m4 l4">
+                          
                 <img src="images/EQUIPE/Edgar_final.jpg" class=" circle responsive-img"  alt="Avatar">
                           <div class=" flow-text center">Edgar<br>Estagiário</div>
               
