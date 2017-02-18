@@ -52,6 +52,23 @@ table.highlight > tbody > tr > td > a{
   
 }
 
+#equipe .circle {
+  
+  
+  overflow: hidden;
+  /*opacidade*/
+  opacity: 0.95;
+  -moz-opacity: 0.75;
+  filter: alpha(opacity=75);
+  -webkit-filter: opacity(0.75);
+  /*filtro P/B*/
+  filter: black;
+  /* IE6-9 */
+  -webkit-filter: grayscale(100%);
+  /* Chrome 19+ & Safari 6+ */
+  /*qualidade*/
+  image-rendering: auto;
+}
 
 
 #equipe .circle:hover{
