@@ -148,6 +148,14 @@ nav ul a:hover {
   margin-bottom: 25px;
 }
 
+
+.image4 { /*alinhamento das imagens dos parceiros*/
+  display: block;
+  width: 100%;
+  position: relative;
+ }
+
+
 /*slider background quando esta ativo*/
 
 
