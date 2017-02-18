@@ -133,7 +133,6 @@ nav ul a:hover {
 .collapsible-body {
     background-color: #EDEDED;
 
-
 }
 
 /*Personalizaçao hover imagens parceiros*/
@@ -164,9 +163,6 @@ nav ul a:hover {
   opacity: 0.9; 
 }
 
-
-
-
 /*personalizaçao do botao Enviar do form*/
 
 .btn {
@@ -176,7 +172,8 @@ nav ul a:hover {
   right: 35%;
   margin-top:20px;
   margin-left:-0px;
-  display: inline-block;
+  display: flex;
+  vertical-align: center;
 }
 
 /*Iframe do mapa responsiveo*/
