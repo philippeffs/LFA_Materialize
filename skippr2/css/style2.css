@@ -1,0 +1,105 @@
+
+.hero {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  position: absolute; 
+}
+
+.hero .container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 80%;
+  z-index: 999; 
+  }
+ 
+
+ nav {
+  background-color: transparent;
+ }
+
+ nav-container{
+  background-color: transparent;
+ }
+
+
+/*personalizaçao do botao Enviar do form*/
+
+.btn {
+
+  position:relative;
+  left:35%;
+  right: 35%;
+  margin-top:20px;
+  margin-left:-0px;
+  display: flex;
+  vertical-align: center;
+}
+
+/*Iframe do mapa responsiveo*/
+
+.maps {
+position: relative;
+padding-bottom: 65.25%;
+padding-top: 30px;
+height: 0;
+overflow: auto; 
+-webkit-overflow-scrolling:touch; //<<--- THIS IS THE KEY 
+border: solid black 1px;
+} 
+.maps iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+
+/*Footer*/
+
+.page-footer{
+  opacity: 0.9;
+  
+}
+
+
+
+.card.small {
+  height: 200px;
+}
+/*media queries*/
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+
+
+}
+
+.material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}

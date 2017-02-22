@@ -26,7 +26,6 @@ p {
     width: 100%;
 }
 
-
 /*personalização tabela de publicaçoes*/
 table.highlight > tbody > tr:hover {
     background-color: #546e7a;
@@ -162,6 +161,30 @@ nav ul a:hover {
   background-color: #546e7a;
   opacity: 0.9; 
 }
+
+
+.hero {
+  width: 100%;
+  height: 100%;
+  max-width: 100%;
+  position: absolute; 
+}
+
+.hero .container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: 80%;
+  height: 80%;
+  z-index: 999; 
+  }
+ 
+
 
 /*personalizaçao do botao Enviar do form*/
 

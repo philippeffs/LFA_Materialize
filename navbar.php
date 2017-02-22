@@ -2,7 +2,9 @@
 <div class="navbar-fixed">
   <nav class="blue-grey darken-1 z-depth-4" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="#" class="brand-logo">LABFA</a>
+      <a id="logo-container" href="" class="brand-logo">LABFA
+        <img src="#">
+      </a>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons ">menu</i></a>
   
       <ul class="right hide-on-med-and-down">
