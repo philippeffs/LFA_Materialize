@@ -52,13 +52,13 @@
                           Ouro Preto -  Minas Gerais CEP: 35400-000<br>
                           Telefone: +55 (31) 3559-1112/ 97141-1690</span>
                       </div>
-                    <div class="maps hide-on-small-only hoverable">
+                    <div class="maps hoverable">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d236.1667031131442!2d-43.50894912591769!3d-20.400066731285023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa40aec8c10fe17%3A0x5423e109dd4569c7!2sCampus+Morro+do+Cruzeiro!5e0!3m2!1spt-BR!2sbr!4v1486570739255"
                          width="430" height="400" style="border:0" allowfullscreen></iframe>
-                    </div>
+                    </div><br>
               </div>
                 <form class="col s12 m6 l6" action="mail_send.php" method="post" >
-                      <h5>Formulário de Contato:</h5>
+                      
                       <div class="input-field col s12 m12 l12">
                           <i class="material-icons prefix">account_circle</i>
                           <input id="icon_prefix" type="text" class="validate" data-length="10">
