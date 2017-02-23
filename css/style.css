@@ -154,6 +154,7 @@ nav ul a:hover {
 
 #galerialab a > img:hover{
   border: solid #546e7a 3px;
+
   -webkit-filter: none; 
   filter: none; 
   image-rendering: auto;
