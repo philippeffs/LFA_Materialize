@@ -9,14 +9,14 @@
 <!--Conteúdo da página-->
 
 <div class="slide">
-      <article class="slide_bloco">
+      <div class="slide_bloco">
         <ul id="demo1">
           <li><a href="#slide1">
             <img src="images/Caroussel/banner12.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
           <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg"  alt="This is caption 2"></a></li>
           <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
         </ul>
-      </article>
+      </div>
     </div>
 
 
