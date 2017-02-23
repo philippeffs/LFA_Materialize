@@ -41,8 +41,7 @@
 </div>
 
   <div class="container">
-  <h5 >Galeria de fotos:</h5><br>
-    <div class="row" id="galerialab">
+      <div class="row" id="galerialab">
     <div class="col s12 m4 l3">
           <a class="example-image-link" href="images/LABORATORIO/Selecionada1.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
           <img class="example-image" src="images/LABORATORIO/Selecionada1.jpg" alt="bla bla bla"/></a>
