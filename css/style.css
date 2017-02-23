@@ -127,6 +127,16 @@ nav ul a:hover {
 }
 
 
+/*Personalizacao fotos do laboratório*/
+
+#galerialab img{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    vertical-align: center;
+
+}
+
 /*personalizaçao pagina de Linhas de Pesquisa*/
 
 .collapsible-body {
@@ -156,12 +166,10 @@ nav ul a:hover {
 
 /*slider background quando esta ativo*/
 
-
-.slider .indicators .indicator-item.active {
-  background-color: #546e7a;
-  opacity: 0.9; 
+.slide {
+  width: 100%;
+  margin: 0 auto;
 }
-
 
 
 
@@ -237,4 +245,14 @@ height: 100%;
 
 footer.page-footer {
   margin: 0;
+}
+
+
+@media only screen and (max-device-width: 800px), screen and (max-width: 800px) {
+  .slide{
+    width: 80%;
+  }  
+}
+.slide_bloco {
+  width: 100%;
 }

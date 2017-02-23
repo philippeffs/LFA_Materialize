@@ -10,6 +10,7 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/slippry.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/lightbox.min.css" rel="stylesheet">
 
   <!--JS-->	
   <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>

@@ -62,6 +62,43 @@
   </div>
 </div>
 
+  <div class="container">
+  <h5 >Galeria de fotos:</h5><br>
+    <div class="row" id="galerialab">
+        <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 1.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 1.jpg" alt="bla bla bla"/></a>
+          </div>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 11.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 11.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 14.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 14.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">          
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 16.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 16.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada 20.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 20.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada CBR.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada CBR.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada Compactacao.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada Compactacao.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada Geogaude.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada Geogaude.jpg" alt="bla bla bla"/></a>
+    </div> 
+    <div class="col s12 m4 l3">     
+    <a class="example-image-link" href="images/LABORATORIO/selecionada mistura.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/selecionada mistura.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">     
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada penetracao - Ensaio Penetracao.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada penetracao - Ensaio Penetracao.jpg" alt="bla bla bla"/></a>
+    </div>          
+  </div>
+</div>
+
+
 
 <!--rodapé-->
 <?php require ('footer.php'); ?>

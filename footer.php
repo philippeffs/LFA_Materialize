@@ -18,6 +18,7 @@
   <!--  Scripts-->
  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+  <script src="js/lightbox.min.js"></script>
 
 
 
@@ -41,7 +42,7 @@
     $(document).ready(function(){
         $("#demo1").slippry({
 
-          slippryWrapper: '<div class="sy-box " />', // wrapper to wrap everything, including pager
+          slippryWrapper: '<div class="sy-box picture-slider" />', // wrapper to wrap everything, including pager
 
           // options
           adaptiveHeight: false, // height of the sliders adapts to current slide

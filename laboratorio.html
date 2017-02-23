@@ -9,6 +9,13 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/slippry.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/lightbox.min.css" rel="stylesheet">
+
+  <!--JS--> 
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+  <script src="js/slippry.min.js"></script>
+
 </head>
 <body>
 
@@ -47,38 +54,18 @@
   </nav>
 </div>
 
-      <div class="slider">
-          <ul class="slides">
-            <li>
-              <img src="images/banner.jpg"> <!-- random image -->
-              <div class="caption center-align">
-                <h3>This is our big Tagline!</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
-              <div class="caption left-align">
-                <h3>Left Aligned Caption</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
-              <div class="caption right-align">
-                <h3>Right Aligned Caption</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
-              <div class="caption center-align">
-                <h3>This is our big Tagline!</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-          </ul>
-      </div>
+      <div class="slide">
+      <article class="slide_bloco">
+        <ul id="demo1">
+          <li><a href="#slide1">
+            <img src="images/Caroussel/banner12.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
+          <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg"  alt="This is caption 2"></a></li>
+          <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
+        </ul>
+      </article>
+    </div>
+
+
 
 <div class="container">
     <div class="section">
@@ -95,18 +82,41 @@
 
     </div>
   </div>
-  <h5 >Galeria de fotos:</h5>
-    <div class="row" id="equipe">
-      <div class="col s12 m4 l4">
-
-
-
-
-
-
-
 </div>
-</div>
+  <div class="container">
+  <h5 >Galeria de fotos:</h5><br>
+    <div class="row" id="galerialab">
+        <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 1.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 1.jpg" alt="bla bla bla"/></a>
+          </div>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 11.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 11.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 14.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 14.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">          
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada 16.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 16.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada 20.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada 20.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada CBR.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada CBR.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada Compactacao.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada Compactacao.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada Geogaude.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada Geogaude.jpg" alt="bla bla bla"/></a>
+    </div> 
+    <div class="col s12 m4 l3">     
+    <a class="example-image-link" href="images/LABORATORIO/selecionada mistura.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/selecionada mistura.jpg" alt="bla bla bla"/></a>
+    </div>
+    <div class="col s12 m4 l3">     
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada penetracao - Ensaio Penetracao.jpg" data-lightbox="roadtrip" data-title="Bla bla bla"><img class="example-image" src="images/LABORATORIO/Selecionada penetracao - Ensaio Penetracao.jpg" alt="bla bla bla"/></a>
+    </div>          
+  </div>
 </div>
 
 
@@ -167,15 +177,12 @@
 
 
   <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.2.min.js"></script>
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
+  <script src="js/lightbox.min.js"></script>
 
 
 <script>
-    $(document).ready(function(){
-    $('.slider').slider({height:420,indicators:true,transition:800,interval:8000});
-    });
-
 
     $( document ).ready(function() {
     $(".button-collapse").sideNav();
@@ -188,6 +195,32 @@
     $('input#input_text, textarea#mensagem').characterCounter();
   });
         
+          $(document).ready(function(){ 
+        $("#demo1").slippry({
+
+          slippryWrapper: '<div class="sy-box " />', // wrapper to wrap everything, including pager
+
+          // options
+          adaptiveHeight: false, // height of the sliders adapts to current slide
+          captions: 'overlay', // Position: overlay, below, custom, false
+
+          // pager
+          pager: false,
+          
+          // controls
+          controls: true,
+          autoHover: true,
+
+          // transitions
+          transition: 'kenburns', // fade, horizontal, kenburns, false
+          kenZoom: 140,
+          speed: 2000 // time the transition takes (ms)
+
+
+
+        });
+    });
+
 </script>
 
 
