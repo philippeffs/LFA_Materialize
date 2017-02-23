@@ -17,7 +17,7 @@
           <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
         </ul>
       </div>
-    </div>
+</div>
 
 
 <div class="container">
