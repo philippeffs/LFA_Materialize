@@ -250,7 +250,7 @@ footer.page-footer {
 
 @media only screen and (max-device-width: 800px), screen and (max-width: 800px) {
   .slide{
-    width: 80%;
+    width: 100%;
   }  
 }
 .slide_bloco {
