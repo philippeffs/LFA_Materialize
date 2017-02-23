@@ -280,6 +280,10 @@ footer.page-footer {
 
 @media only screen and (max-width : 762px) {
 
+#galerialab {
+    width: 100%;
+    height: 200px;
 
 
+}
 
