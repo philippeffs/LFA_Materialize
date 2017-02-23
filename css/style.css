@@ -132,10 +132,11 @@ nav ul a:hover {
 #galerialab img{
     width: 200px;
     height: 200px;
+    display: block;
     position: relative;
     vertical-align: center;
     overflow: hidden;
-    margin-bottom: 25px;
+    border-radius: 10px;
     display: block;
     
     
@@ -145,6 +146,10 @@ nav ul a:hover {
     image-rendering: auto;
 
 
+}
+
+#galerialab .col {
+  margin-bottom: 25px;
 }
 
 #galerialab a > img:hover{
