@@ -2,18 +2,16 @@
 <div class="navbar-fixed">
   <nav class="blue-grey darken-1 z-depth-4" role="navigation">
     <div class="nav-wrapper container">
-      <a id="logo-container" href="" class="brand-logo">LABFA
-        <img src="#">
-      </a>
+      <a id="logo-container" href="#" class="brand-logo">LABFA</a>
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons ">menu</i></a>
   
-      <ul class="right hide-on-med-and-down">
+       <ul class="right hide-on-med-and-down">
         <li><a href="index.html">Página inicial</a></li>
         <li><a href="laboratorio.html">Laboratório</a></li>
         <li><a href="equipe.html">Equipe</a></li>
         <li><a href="lnpesquisa.html">Linhas de Pesquisa</a></li>
         <li><a href="public.html">Publicações</a></li>
-        <li><a href="#">Parceiros</a></li>
+        <li><a href="parceiros.html">Parceiros</a></li>
         <li><a href="contato.html">Contato</a></li>
       </ul>
     </div>

@@ -9,7 +9,14 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/slippry.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+
+  <!--JS--> 
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+  <script src="js/slippry.min.js"></script>
+
 </head>
+
 <body>
 
 <div class="navbar-fixed">
@@ -48,57 +55,20 @@
 </div>
 <!-- navbar mobile-->
 
-      <div class="slider">
-          <ul class="slides">
-            <li>
-              <img src="images/banner.jpg"> <!-- random image -->
-              <div class="caption center-align">
-                <h3>This is our big Tagline!</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
-              <div class="caption left-align">
-                <h3>Left Aligned Caption</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
-              <div class="caption right-align">
-                <h3>Right Aligned Caption</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
-              <div class="caption center-align">
-                <h3>This is our big Tagline!</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-          </ul>
-      </div>
+<!--slider-->
 
-
-
-  <!--<div id="index-banner" class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <br><br><br><br>
-        <h1 class="header bottom teal-text text-lighten-2">Laboratório de Ferrovias e Asfalto</h1>
-        <div class="row">
-          <h5 class="header col s12 light">Laboratório de Ferrovias e Asfalto</h5>
-        </div>
-
-
-
-      </div>
+      <div class="slide">
+      <article class="slide_bloco">
+        <ul id="demo1">
+          <li><a href="#slide1">
+            <img src="images/Caroussel/banner12.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
+          <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg"  alt="This is caption 2"></a></li>
+          <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
+        </ul>
+      </article>
     </div>
-    <div class="parallax col s12"><img src="images/banner.jpg"  alt="Laboratório de Ferrovias e Asfalto"></div>
-  </div>-->
 
+<!--fim slider-->
 
 <div class="container">
     <div class="section">
@@ -242,16 +212,11 @@
 
 
   <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.2.min.js"></script>
+  
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
 
 
 <script>
-
-    $(document).ready(function(){
-    $('.slider').slider({height:420,indicators:true,transition:800,interval:8000});
-    });
-
 
     $( document ).ready(function() {
     $(".button-collapse").sideNav();
@@ -264,6 +229,32 @@
     $('input#input_text, textarea#mensagem').characterCounter();
   });
         
+          $(document).ready(function(){ 
+        $("#demo1").slippry({
+
+          slippryWrapper: '<div class="sy-box " />', // wrapper to wrap everything, including pager
+
+          // options
+          adaptiveHeight: false, // height of the sliders adapts to current slide
+          captions: 'overlay', // Position: overlay, below, custom, false
+
+          // pager
+          pager: false,
+          
+          // controls
+          controls: true,
+          autoHover: true,
+
+          // transitions
+          transition: 'kenburns', // fade, horizontal, kenburns, false
+          kenZoom: 140,
+          speed: 2000 // time the transition takes (ms)
+
+
+
+        });
+    });
+
 </script>
 
 

@@ -16,11 +16,10 @@
   </footer>
 
   <!--  Scripts-->
-  <script src="https://code.jquery.com/jquery-2.1.2.min.js"></script>
-
+ 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
-  <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
-  <script src="js/jquery.skippr.min.js"></script>
+
+
 
 <script>
             $(document).ready(function(){
@@ -39,19 +38,32 @@
     $('input#input_text, textarea#mensagem').characterCounter();
   });
 
-  $(document).ready(function(){
-    $('.materialboxed').materialbox();
-  });
+    $(document).ready(function(){
+        $("#demo1").slippry({
 
-  $(document).ready(function(){
+          slippryWrapper: '<div class="sy-box " />', // wrapper to wrap everything, including pager
 
-    $("#random").skippr(){
-       
+          // options
+          adaptiveHeight: false, // height of the sliders adapts to current slide
+          captions: 'overlay', // Position: overlay, below, custom, false
+
+          // pager
+          pager: false,
+          
+          // controls
+          controls: true,
+          autoHover: true,
+
+          // transitions
+          transition: 'kenburns', // fade, horizontal, kenburns, false
+          kenZoom: 140,
+          speed: 2000 // time the transition takes (ms)
+
+
+
+        });
     });
 
-
-
-      
         
 </script>
   

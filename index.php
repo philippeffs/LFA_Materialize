@@ -8,57 +8,16 @@
 
 <!--Conteúdo da página-->
 
-     <div class="slider">
-          <ul class="slides">
-            <li>
-              <img src="images/Caroussel/banner1.jpg"> <!-- random image -->
-              <div class="caption center-align">
-                <h3>This is our big Tagline!</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="images/Caroussel/banner2.jpg"> <!-- random image -->
-              <div class="caption left-align">
-                <h3>Left Aligned Caption</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="images/Caroussel/banner3.jpg"> <!-- random image -->
-              <div class="caption right-align">
-                <h3>Right Aligned Caption</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-            <li>
-              <img src="images/Caroussel/banner4.jpg"> <!-- random image -->
-              <div class="caption center-align">
-                <h3>This is our big Tagline!</h3>
-                <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-              </div>
-            </li>
-          </ul>
-      </div>
-
-
-
-
-  <!--<div id="index-banner" class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot">
-      <div class="container">
-        <br><br><br><br>
-        <h1 class="header bottom teal-text text-lighten-2">Laboratório de Ferrovias e Asfalto</h1>
-        <div class="row">
-          <h5 class="header col s12 light">Laboratório de Ferrovias e Asfalto</h5>
-        </div>
-
-
-
-      </div>
+<div class="slide">
+      <article class="slide_bloco">
+        <ul id="demo1">
+          <li><a href="#slide1">
+            <img src="images/Caroussel/banner12.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
+          <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg"  alt="This is caption 2"></a></li>
+          <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
+        </ul>
+      </article>
     </div>
-    <div class="parallax col s12"><img src="images/banner.jpg"  alt="Laboratório de Ferrovias e Asfalto"></div>
-  </div>-->
 
 
 <div class="container">
