@@ -59,14 +59,14 @@
 <!--slider-->
 
       <div class="slide">
-      <article class="slide_bloco">
+      <div class="slide_bloco">
         <ul id="demo1">
           <li><a href="#slide1">
             <img src="images/Caroussel/banner12.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
           <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg"  alt="This is caption 2"></a></li>
           <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
         </ul>
-      </article>
+      </div>
     </div>
 <!--fim slider-->
 
@@ -228,30 +228,12 @@
       $(document).ready(function() {
     $('input#input_text, textarea#mensagem').characterCounter();
   });
-        
-          $(document).ready(function(){ 
-        $("#demo1").slippry({
 
-          slippryWrapper: '<div class="sy-box " />', // wrapper to wrap everything, including pager
-
-          // options
-          adaptiveHeight: false, // height of the sliders adapts to current slide
-          captions: 'overlay', // Position: overlay, below, custom, false
-
-          // pager
-          pager: false,
-          
-          // controls
-          controls: true,
-          autoHover: true,
-
-          // transitions
+    $(document).ready(function(){ 
+      $("#demo1").slippry({
           transition: 'kenburns', // fade, horizontal, kenburns, false
           kenZoom: 140,
           speed: 2000 // time the transition takes (ms)
-
-
-
         });
     });
 
