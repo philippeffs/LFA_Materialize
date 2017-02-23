@@ -95,7 +95,7 @@
     </div>
     <div class="col s12 m4 l3">
     <a class="example-image-link" href="images/LABORATORIO/Selecionada Geogaude.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-    img class="example-image" src="images/LABORATORIO/Selecionada Geogaude.jpg" alt="bla bla bla"/></a>
+    <img class="example-image" src="images/LABORATORIO/Selecionada Geogaude.jpg" alt="bla bla bla"/></a>
     </div> 
     <div class="col s12 m4 l3">     
     <a class="example-image-link" href="images/LABORATORIO/Selecionada mistura.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
