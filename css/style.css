@@ -135,17 +135,13 @@ nav ul a:hover {
     position: relative;
     vertical-align: center;
     overflow: hidden;
-    /*opacidade*/
-    opacity: 0.95;
-    -moz-opacity: 0.75;
-    filter: alpha(opacity=75);
-    -webkit-filter: opacity(0.75);
-    /*filtro P/B*/
-    filter: black;
-    /* IE6-9 */
+    margin-bottom: 25px;
+    display: block;
+    max-width: 300px;
+    transition: .3s;
     -webkit-filter: grayscale(100%);
-    /* Chrome 19+ & Safari 6+ */
-    /*qualidade*/
+    filter: grayscale(100%);
+    filter: gray; /* IE */
     image-rendering: auto;
 
 
@@ -153,14 +149,8 @@ nav ul a:hover {
 
 #galerialab a > img:hover{
   border: solid #546e7a 3px;
-  opacity: 1;
-  -moz-opacity: 1;
-  filter: alpha(opacity=100);
-  -webkit-filter: opacity(1);
-  filter: none;
-  /* Firefox 10+ */
-  -webkit-filter: grayscale(0%);
-  /* Chrome 19+ & Safari 6+ */
+  -webkit-filter: none; 
+  filter: none; 
   image-rendering: auto;
 
 }
