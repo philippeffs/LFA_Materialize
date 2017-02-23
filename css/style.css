@@ -67,6 +67,8 @@ table.highlight > tbody > tr > td > a{
   /* Chrome 19+ & Safari 6+ */
   /*qualidade*/
   image-rendering: auto;
+
+  
 }
 
 
@@ -82,6 +84,7 @@ table.highlight > tbody > tr > td > a{
   -webkit-filter: grayscale(0%);
   /* Chrome 19+ & Safari 6+ */
   image-rendering: auto;
+    
   
 }
 
@@ -129,6 +132,8 @@ nav ul a:hover {
 
 /*Personalizacao fotos do laboratório*/
 
+
+
 #galerialab img{
     width: 200px;
     height: 200px;
@@ -137,7 +142,8 @@ nav ul a:hover {
     vertical-align: center;
     overflow: hidden;
     border-radius: 10px;
-    display: block;
+    display: inline-block;
+
     
     
     -webkit-filter: grayscale(100%);
@@ -150,6 +156,7 @@ nav ul a:hover {
 
 #galerialab .col {
   margin-bottom: 25px;
+
 }
 
 #galerialab a > img:hover{
@@ -270,5 +277,19 @@ height: 100%;
 footer.page-footer {
   margin: 0;
 }
+
+
+@media only screen and (max-width : 762px) {
+
+#galerialab {
+
+    margin-left: 15%;
+    margin-right: 15%;
+    vertical-align: center;
+    position: relative;
+
+}
+
+
 
 
