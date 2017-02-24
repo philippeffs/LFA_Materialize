@@ -216,13 +216,14 @@
 
 
     $(document).ready(function(){ 
-      $("#demo1").slippry({
-          transition: 'kenburns', // fade, horizontal, kenburns, false
-          kenZoom: 80,
-          speed: 1500, // time the transition takes (ms)
-          captions:'overlay'
-        });
+    $("#demo1").slippry({
+      auto: true,
+      transition: 'horizontal',
+      adaptiveHeight:'false',
+      captions:'overlay'
+
     });
+  });
 
     $( document ).ready(function() {
     $(".button-collapse").sideNav();
