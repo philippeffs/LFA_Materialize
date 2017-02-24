@@ -12,11 +12,12 @@
   <link href="css/slippry.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/lightbox.min.css" rel="stylesheet">
 
-  <!--JS-->	
+  <!--JS--> 
   <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
   <script src="js/slippry.min.js"></script>
   <script src="js/lightbox.min.js"></script>
-    <script> 
+
+  <script> 
     $(document).ready(function(){ 
       $("#demo1").slippry({
           transition: 'kenburns', // fade, horizontal, kenburns, false
@@ -24,6 +25,5 @@
           speed: 2000, // time the transition takes (ms)
           captions:'overlay'
         });
-    });
-    </script>
+    });</script>
 </head>

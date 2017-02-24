@@ -8,16 +8,16 @@
 
 <!--Conteúdo da página-->
 
-    <div class="slide">
+<div class="slide">
       <div class="slide_bloco">
         <ul id="demo1">
           <li><a href="#slide1">
-            <img src="images/Caroussel/banner1.jpg" class="responsive-img" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
-          <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg" class="responsive-img" alt="This is caption 2"></a></li>
-          <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" class="responsive-img" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
+            <img src="images/Caroussel/banner12.jpg" alt="This is caption 1 <a href='#link'>Even with links!</a>"></a></li>
+          <li><a href="#slide2"><img src="images/Caroussel/banner3.jpg"  alt="This is caption 2"></a></li>
+          <li><a href="#slide3"><img src="images/Caroussel/banner4.jpg" alt="And this is some very long caption for slide 3. Yes, really long."></a></li>
         </ul>
       </div>
-    </div>
+</div>
 
 
 
@@ -42,46 +42,46 @@
 
   <div class="container">
       <div class="row" id="galerialab">
-    <div class="col s6 m4 l3">
-          <a class="example-image-link" href="images/LABORATORIO/Selecionada1.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-          <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada1.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada1.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+          <img class="example-image" src="images/LABORATORIO/Selecionada1.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">
-          <a class="example-image-link" href="images/LABORATORIO/Selecionada11.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-          <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada11.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada11.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+          <img class="example-image" src="images/LABORATORIO/Selecionada11.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">
-          <a class="example-image-link" href="images/LABORATORIO/Selecionada14.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-          <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada14.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada14.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+          <img class="example-image" src="images/LABORATORIO/Selecionada14.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">          
-          <a class="example-image-link" href="images/LABORATORIO/Selecionada16.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-          <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada16.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">          
+          <a class="example-image-link" href="images/LABORATORIO/Selecionada16.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+          <img class="example-image" src="images/LABORATORIO/Selecionada16.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">          
-          <a class="example-image-link" href="images/LABORATORIO/selecionada20.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-          <img class="example-image responsive-img" src="images/LABORATORIO/selecionada20.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">          
+          <a class="example-image-link" href="images/LABORATORIO/selecionada20.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+          <img class="example-image" src="images/LABORATORIO/selecionada20.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">
-    <a class="example-image-link" href="images/LABORATORIO/Selecionada_CBR.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-    <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada_CBR.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada_CBR.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+    <img class="example-image" src="images/LABORATORIO/Selecionada_CBR.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">
-    <a class="example-image-link" href="images/LABORATORIO/Selecionada_Compactacao.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-    <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada_Compactacao.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada_Compactacao.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+    <img class="example-image" src="images/LABORATORIO/Selecionada_Compactacao.jpg" alt="bla bla bla"/></a>
     </div>
-    <div class="col s6 m4 l3">
-    <a class="example-image-link" href="images/LABORATORIO/Selecionada_Geogaude.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-    <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada_Geogaude.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada_Geogaude.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+    <img class="example-image" src="images/LABORATORIO/Selecionada_Geogaude.jpg" alt="bla bla bla"/></a>
     </div> 
-    <div class="col s6 m4 l3">
-    <a class="example-image-link" href="images/LABORATORIO/selecionada_mistura.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-    <img class="example-image responsive-img" src="images/LABORATORIO/selecionada_mistura.jpg" alt="bla bla bla"/></a>
+    <div class="col s12 m4 l3">
+    <a class="example-image-link" href="images/LABORATORIO/selecionada_mistura.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+    <img class="example-image" src="images/LABORATORIO/selecionada_mistura.jpg" alt="bla bla bla"/></a>
     </div> 
-    <div class="col s6 m4 l3">     
-    <a class="example-image-link" href="images/LABORATORIO/Selecionada_Ensaio_Penetracao.jpg" data-lightbox="roadtrip" data-title="Bla bla bla">
-    <img class="example-image responsive-img" src="images/LABORATORIO/Selecionada_Ensaio_Penetracao.jpg" alt="bla bla bla"/></a>
-    </div>      
+    <div class="col s12 m4 l3">     
+    <a class="example-image-link" href="images/LABORATORIO/Selecionada_Ensaio_Penetracao.jpg" data-lightbox="lightbox" data-title="Bla bla bla">
+    <img class="example-image" src="images/LABORATORIO/Selecionada_Ensaio_Penetracao.jpg" alt="bla bla bla"/></a>
+    </div>       
   </div>
 </div>
 
