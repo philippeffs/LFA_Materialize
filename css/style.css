@@ -12,19 +12,7 @@ p {
   line-height: 2rem;
 }
 
-.button-collapse {
-  color: #fff;
-}
 
-.parallax-container {
-  min-height: 380px;
-  line-height: 0;
-  height: auto;
-  color: rgba(255,255,255,.9);
-}
-.parallax-container .section {
-    width: 100%;
-}
 
 /*personalização tabela de publicaçoes*/
 table.highlight > tbody > tr:hover {
@@ -133,10 +121,9 @@ nav ul a:hover {
 /*Personalizacao fotos do laboratório*/
 
 
-#galerialab a{
+#galerialab .col{
   
-  padding-right: 15px;
-  padding-bottom: 10PX
+  margin-bottom: 25px;
 
 }
 
@@ -149,9 +136,6 @@ nav ul a:hover {
   image-rendering: auto;
 }
 
-
-
-
 #galerialab:hover img{
     opacity: .6;
     transfor: scale(.92);
@@ -163,14 +147,6 @@ nav ul a:hover {
   box-shadow: 0 0 7px rgba(0, 0, 0, .5);
 
 }
-
-
-
-
-
-
-
-
 
 /*personalizaçao pagina de Linhas de Pesquisa*/
 
@@ -206,31 +182,12 @@ nav ul a:hover {
   height: 420px;
   image-rendering: auto;
 
+
 }
 
 
 /*personalização do accordion linhas de pesquisa*/
 
-
-#lnpesquisa {
-  height: 100%;
-  min-height: 100%;
-
-  /* habilita o flex nos filhos diretos */
-  display: -ms-flex;
-  display: -webkit-flex;
-  display: flex;
-
-  /* centraliza na vertical */
-  -ms-align-items: center;
-  -webkit-align-items: center;
-  align-items: center;
-
-  /* centraliza na horizontal */
-  -ms-justify-content: center;
-  -webkit-justify-content: center;
-  justify-content: center;
-}
 
 /*personalizaçao do botao Enviar do form*/
 
@@ -242,7 +199,7 @@ nav ul a:hover {
   margin-top:20px;
   margin-left:-0px;
   display: flex;
-  vertical-align: center;
+  
 }
 
 /*Iframe do mapa responsiveo*/
