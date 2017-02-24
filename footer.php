@@ -16,13 +16,24 @@
   </footer>
 
   <!--  Scripts-->
- 
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
   <script src="js/lightbox.min.js"></script>
+  <script src="js/slippry.min.js"></script>
 
 
 
 <script>
+
+      $(document).ready(function(){ 
+      $("#demo1").slippry({
+          transition: 'kenburns', // fade, horizontal, kenburns, false
+          kenZoom: 140,
+          speed: 2000, // time the transition takes (ms)
+          captions:'overlay'
+        });
+    });
+
             $(document).ready(function(){
       $('.slider').slider({transition:800,interval:8000});
     });
@@ -38,6 +49,8 @@
       $(document).ready(function() {
     $('input#input_text, textarea#mensagem').characterCounter();
   });
+
+  
         
 </script>
   
