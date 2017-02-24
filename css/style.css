@@ -136,11 +136,13 @@ nav ul a:hover {
 #galerialab a{
   
   padding-right: 15px;
+  padding-bottom: 10PX
 
 }
 
 #galerialab img{
   display: block;
+  border-radius: 5px;
   width: 200px;
   height: 200px;
   transition: all .2s ease-in-out;
@@ -148,10 +150,6 @@ nav ul a:hover {
 
 
 
-#galerialab .col {
-  margin-bottom: 25px;
-
-}
 
 #galerialab:hover img{
     opacity: .6;
