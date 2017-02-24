@@ -214,6 +214,16 @@
 
 <script>
 
+  
+    $(document).ready(function(){ 
+      $("#demo1").slippry({
+          transition: 'kenburns', // fade, horizontal, kenburns, false
+          kenZoom: 140,
+          speed: 2000, // time the transition takes (ms)
+          captions:'overlay'
+        });
+    });
+
     $( document ).ready(function() {
     $(".button-collapse").sideNav();
     });
@@ -224,14 +234,6 @@
       $(document).ready(function() {
     $('input#input_text, textarea#mensagem').characterCounter();
   });
-
-    $(document).ready(function(){ 
-      $("#demo1").slippry({
-          transition: 'kenburns', // fade, horizontal, kenburns, false
-          kenZoom: 140,
-          speed: 2000, // time the transition takes (ms)
-          captions:'overlay'
-        });
 
 </script>
 
