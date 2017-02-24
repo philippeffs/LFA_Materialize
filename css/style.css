@@ -133,18 +133,20 @@ nav ul a:hover {
 /*Personalizacao fotos do laboratório*/
 
 
-
-#galerialab img{
-    width: 200px;
-    height: 200px;
-    
-    position: relative;
-    overflow: hidden;
-    border-radius: 10px;
-    image-rendering: auto;
-
+#galerialab a{
+  
+  padding-right: 15px;
 
 }
+
+#galerialab img{
+  display: block;
+  width: 200px;
+  height: 200px;
+  transition: all .2s ease-in-out;
+}
+
+
 
 #galerialab .col {
   margin-bottom: 25px;
@@ -153,16 +155,23 @@ nav ul a:hover {
 
 #galerialab:hover img{
     opacity: .6;
-    transfor: scale (.92);
-
+    transfor: scale(.92);
 }
 
 #galerialab img:hover {
   opacity: 1;
-  transform: scale(1) rotate(2deg);
-  box-shadow: 0 0 7px rgba(0,0,0, .5);
+  
+  box-shadow: 0 0 7px rgba(0, 0, 0, .5);
 
 }
+
+
+
+
+
+
+
+
 
 /*personalizaçao pagina de Linhas de Pesquisa*/
 
