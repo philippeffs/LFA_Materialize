@@ -201,11 +201,13 @@ nav ul a:hover {
 
 /*slider background quando esta ativo*/
 
-/*.slide {
+.slide img{
   width: 100%;
-  margin: 0 auto;
+  height: 420px;
+  image-rendering: auto;
+
 }
-*/
+
 
 
 /*personalizaçao do botao Enviar do form*/
@@ -291,6 +293,12 @@ footer.page-footer {
 
 
 }
+
+
+.slide img{
+    height: 240px;
+
+  }
 
 h5 {
   text-align: center;

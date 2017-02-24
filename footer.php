@@ -25,14 +25,13 @@
 
 <script>
 
-      $(document).ready(function(){ 
-      $("#demo1").slippry({
-          transition: 'kenburns', // fade, horizontal, kenburns, false
-          kenZoom: 140,
-          speed: 2000, // time the transition takes (ms)
-          captions:'overlay'
-        });
+   $(document).ready(function(){ 
+    $("#demo1").slippry({
+      auto: true,
+      transition: 'horizontal'
+
     });
+  });
 
             $(document).ready(function(){
       $('.slider').slider({transition:800,interval:8000});

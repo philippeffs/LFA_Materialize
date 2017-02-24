@@ -8,7 +8,7 @@
 
 <!--Conteúdo da página-->
 
-<div class="slide">
+<div class="slide ">
       <div class="slide_bloco">
         <ul id="demo1">
           <li><a href="#slide1">
