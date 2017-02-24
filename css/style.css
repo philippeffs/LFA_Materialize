@@ -159,7 +159,7 @@ nav ul a:hover {
 
 #galerialab img:hover {
   opacity: 1;
-  transform: scale(1) rotate(2deg);
+  
   box-shadow: 0 0 7px rgba(0, 0, 0, .5);
 
 }
@@ -199,7 +199,7 @@ nav ul a:hover {
  }
 
 
-/*slider background quando esta ativo*/
+/*personalização do slider*/
 
 .slide img{
   width: 100%;
@@ -209,6 +209,28 @@ nav ul a:hover {
 }
 
 
+/*personalização do accordion linhas de pesquisa*/
+
+
+#lnpesquisa {
+  height: 100%;
+  min-height: 100%;
+
+  /* habilita o flex nos filhos diretos */
+  display: -ms-flex;
+  display: -webkit-flex;
+  display: flex;
+
+  /* centraliza na vertical */
+  -ms-align-items: center;
+  -webkit-align-items: center;
+  align-items: center;
+
+  /* centraliza na horizontal */
+  -ms-justify-content: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
 
 /*personalizaçao do botao Enviar do form*/
 
