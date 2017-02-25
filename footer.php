@@ -1,7 +1,7 @@
    <footer class="page-footer blue-grey darken-1">
       <div class="container">
         <div class="row">
-          <div class="col s12 m4">
+          <div class="col s12 m12 l12">
             <h5 class="white-text">Laboratório de Ferrovias e Asfalto</h5>
             <p class="grey-text text-lighten-4">bla bla bla</p>
           </div>

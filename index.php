@@ -28,7 +28,7 @@
   <div class="container">
       <div class="section">
         <div class="row">
-          <div class="col s12 m9">
+          <div class="col s12 m12 l12">
               <h5>Laboratório de Ferrovias e Asfalto</h5>
               <p class="light left">
                   O Laboratório de Ferrovias e Asfalto do Departamento de Engenharia Civil da Escola de Minas da Universidade Federal de Ouro Preto (UFOP) 
@@ -44,9 +44,9 @@
             
           </div>
 
-          <div class="col s12 m3">
+<!-- <div class="col s12 m3">
            <!-- <div class="icon-block">
-              <h2 class="center brown-text"><i class="material-icons">group</i></h2>-->
+              
               <h5>Últimas Notícias</h5>
 
                   <div class="collection left">
@@ -55,8 +55,8 @@
                     <a href="#!" class="collection-item">Bla bla bla</a>
                     <a href="#!" class="collection-item">Bla bla bla</a>
                   </div>
-            <!--</div>-->
-          </div>
+            
+          </div><!--</div>-->
 
       </div>
         <div class="col s12 m12">
